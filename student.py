@@ -64,14 +64,6 @@ class StudentGUI:
         self.tv_view.heading(3, text="FROM")
         self.tv_view.heading(4, text="TO")
 
-        # # getting the data and displaying it
-        # conn = sqlite3.connect("ksu.db")
-        # cursor_course = conn.execute(f"SELECT * FROM RESERVATION WHERE id={self.id}")
-        # count = 0
-
-        # for row in cursor_course:
-        #     self.tv_view.insert(parent='', index=count, text='', values=(row[0], row[1], row[2], row[3]))
-        #     count+=1
 
 
         # widgets - reserve frame
