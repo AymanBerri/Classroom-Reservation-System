@@ -359,7 +359,7 @@ if __name__ == "__main__":
     # clear_table("ksu")
     # clear_table("reservation")
     # add_admin()
-    
+
     # run_script()
     # backup_db()
 
