@@ -358,7 +358,7 @@ if __name__ == "__main__":
     # clear_table("classroom")
     # clear_table("ksu")
     # clear_table("reservation")
-    add_admin()
+    # add_admin()
     # run_script()
     # backup_db()
 
